@@ -1,0 +1,15 @@
+.header {
+  padding: 1.2em;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Bungee', cursive;
+  color:  #e8c627;
+}
+
+.flip {
+  transform: scaleX(-1);
+}
