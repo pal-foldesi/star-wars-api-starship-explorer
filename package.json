@@ -16,6 +16,7 @@
     "react-test-renderer": "^16.6.0"
   },
   "devDependencies": {
+    "lodash": "^4.17.14",
     "tachyons": "^4.11.1"
   },
   "scripts": {
