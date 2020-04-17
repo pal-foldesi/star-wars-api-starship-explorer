@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="tc">
         <AppHeader />
-        <SearchableSortableTable url={'https://swapi.co/api/starships/'} />
+        <SearchableSortableTable url={'https://swapi.dev/api/starships/'} />
       </div>
     );
   }
